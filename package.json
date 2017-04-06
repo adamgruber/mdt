@@ -10,7 +10,7 @@
     "mdt": "./bin/cli.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "fs-extra": "^2.1.2",
     "marked": "^0.3.6",
